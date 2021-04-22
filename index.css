@@ -1,0 +1,33 @@
+.about-me{
+    text-align: center;
+  }
+  
+  .jumbotron
+  {
+     text-align: center;
+      background: url("https://mcdn.wallpapersafari.com/medium/38/51/cjIyGn.jpg") no-repeat center center; 
+      -webkit-background-size: 100% 100%;
+      -moz-background-size: 100% 100%;
+      -o-background-size: 100% 100%;
+      background-size: 100% 100%;
+  }
+  .lead
+  {
+    font-weight:bolder;
+  }
+  .Our-Motto{
+    text-align: center;
+  }
+  .tales {
+    width:100%;
+    height: 500px;
+  }
+  .He
+  {
+    color:black;
+  }
+  .she
+  {
+    color:black;
+  }
+  
